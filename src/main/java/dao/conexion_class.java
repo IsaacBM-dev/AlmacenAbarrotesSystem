@@ -13,7 +13,7 @@ public class conexion_class {
     private static final String PORT = "1433";
     private static final String DB_NAME = "BD_AlmacenAbarrotes";
     private static final String USER = "sa";
-    private static final String PASSWORD = "123456780101"; // <-- Cambia aquí por tu clave de SQL Server
+    private static final String PASSWORD = "*****************"; // <-- Cambia aquí por tu clave de SQL Server
 
     private static final String URL = "jdbc:sqlserver://" + HOST + ":" + PORT + ";"
             + "databaseName=" + DB_NAME + ";"
