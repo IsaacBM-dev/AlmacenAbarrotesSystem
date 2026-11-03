@@ -158,7 +158,3 @@ git clone https://github.com/tu-usuario/AlmacenAbarrotesSystem.git
 - [ ] Integración con lector óptico de códigos de barras (EAN-13 / QR) en el buscador y registro de movimientos.
 
 ---
-
-## 👨‍💻 Autores
-
-Proyecto desarrollado para el curso de Desarrollo de Software / Ingeniería de Sistemas — **SENATI**.
