@@ -350,7 +350,7 @@ public class JPanel_Movimiento extends javax.swing.JPanel {
                 {null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "ID Mov.", "Fecha y Hora", "Producto (unidad)", "Tipo", "Motivo", "Cantidad", "Usuario", "Obserbación"
+                "ID Mov.", "Fecha y Hora", "Producto (unidad)", "Tipo", "Motivo", "Cantidad", "Usuario", "Observación"
             }
         ) {
             boolean[] canEdit = new boolean [] {
